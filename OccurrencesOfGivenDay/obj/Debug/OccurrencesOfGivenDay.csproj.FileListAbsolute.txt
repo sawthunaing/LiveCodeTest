@@ -1,0 +1,6 @@
+C:\stn_working\Git\LiveCodeTest\StringReverse\OccurrencesOfGivenDay\bin\Debug\OccurrencesOfGivenDay.exe.config
+C:\stn_working\Git\LiveCodeTest\StringReverse\OccurrencesOfGivenDay\bin\Debug\OccurrencesOfGivenDay.exe
+C:\stn_working\Git\LiveCodeTest\StringReverse\OccurrencesOfGivenDay\bin\Debug\OccurrencesOfGivenDay.pdb
+C:\stn_working\Git\LiveCodeTest\StringReverse\OccurrencesOfGivenDay\obj\Debug\OccurrencesOfGivenDay.csproj.CoreCompileInputs.cache
+C:\stn_working\Git\LiveCodeTest\StringReverse\OccurrencesOfGivenDay\obj\Debug\OccurrencesOfGivenDay.exe
+C:\stn_working\Git\LiveCodeTest\StringReverse\OccurrencesOfGivenDay\obj\Debug\OccurrencesOfGivenDay.pdb

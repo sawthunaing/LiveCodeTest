@@ -1,0 +1,7 @@
+C:\stn_working\Git\LiveCodeTest\StringReverse\FindEndDate\bin\Debug\FindEndDate.exe.config
+C:\stn_working\Git\LiveCodeTest\StringReverse\FindEndDate\bin\Debug\FindEndDate.exe
+C:\stn_working\Git\LiveCodeTest\StringReverse\FindEndDate\bin\Debug\FindEndDate.pdb
+C:\stn_working\Git\LiveCodeTest\StringReverse\FindEndDate\obj\Debug\FindEndDate.csproj.CoreCompileInputs.cache
+C:\stn_working\Git\LiveCodeTest\StringReverse\FindEndDate\obj\Debug\FindEndDate.exe
+C:\stn_working\Git\LiveCodeTest\StringReverse\FindEndDate\obj\Debug\FindEndDate.pdb
+C:\stn_working\Git\LiveCodeTest\StringReverse\FindEndDate\obj\Debug\FindEndDate.csprojAssemblyReference.cache

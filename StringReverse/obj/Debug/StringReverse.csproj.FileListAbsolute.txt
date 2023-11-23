@@ -1,0 +1,7 @@
+C:\stn_working\Git\LiveCodeTest\StringReverse\StringReverse\bin\Debug\StringReverse.exe.config
+C:\stn_working\Git\LiveCodeTest\StringReverse\StringReverse\bin\Debug\StringReverse.exe
+C:\stn_working\Git\LiveCodeTest\StringReverse\StringReverse\bin\Debug\StringReverse.pdb
+C:\stn_working\Git\LiveCodeTest\StringReverse\StringReverse\obj\Debug\StringReverse.csprojAssemblyReference.cache
+C:\stn_working\Git\LiveCodeTest\StringReverse\StringReverse\obj\Debug\StringReverse.csproj.CoreCompileInputs.cache
+C:\stn_working\Git\LiveCodeTest\StringReverse\StringReverse\obj\Debug\StringReverse.exe
+C:\stn_working\Git\LiveCodeTest\StringReverse\StringReverse\obj\Debug\StringReverse.pdb
